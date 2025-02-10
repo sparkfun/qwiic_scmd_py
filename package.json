@@ -1,9 +1,7 @@
 {
     "urls": [
-      ["qwiic_scmd.py", "github:sparkfun/Qwiic_SCMD_Py/qwiic_scmd.py"]
-    ],
-    "deps": [
-      ["github:sparkfun/Qwiic_I2C_Py", "master"]
+      ["qwiic_scmd_py_examples/ex1_qwiic_scmd_basic.py", "github:sparkfun/qwiic_scmd_py/examples/ex1_qwiic_scmd_basic.py"],
+      ["qwiic_scmd_py_examples/ex2_qwiic_scmd_two_motor.py", "github:sparkfun/qwiic_scmd_py/examples/ex2_qwiic_scmd_two_motor.py"]
     ],
     "version": "0.9.1"
 }
