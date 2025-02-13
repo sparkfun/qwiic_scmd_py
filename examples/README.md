@@ -4,19 +4,10 @@ Below is a brief summary of each of the example programs included in this reposi
 NOTE: Any numbering of examples is to retain consistency with the Arduino library from which this was ported. 
 
 ## Ex1 Qwiic Scmd Basic
-Written by Mark Lindemer
- SparkFun Electronics, April 2020
- 
- This python library supports the SparkFun Electroncis qwiic 
- qwiic sensor/board ecosystem on a Raspberry Pi (and compatable) single
- board computers.
+A simple test to speed up and slow down 1 motor.
+
+The key methods showcased by this example are:
+- [set_drive()](https://docs.sparkfun.com/qwiic_scmd_py/classqwiic__scmd_1_1_qwiic_scmd.html#a209a6517d8baac78edaacfd13b556eff)
 
 ## Ex2 Qwiic Scmd Two Motor
-Written by Mark Lindemer
- SparkFun Electronics, April 2020
- 
- This python library supports the SparkFun Electroncis qwiic 
- qwiic sensor/board ecosystem on a Raspberry Pi (and compatable) single
- board computers.
-
-
+A simple test to speed up and slow down both motors in opposite directions.
