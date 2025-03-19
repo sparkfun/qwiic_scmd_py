@@ -31,7 +31,7 @@ New to qwiic? Take a look at the entire [SparkFun qwiic ecosystem](https://www.s
 
 This Python package supports the following SparkFun qwiic products on Python, MicroPython and Circuit python. 
 
-* [SparkFun Motor Driver Sensor - SCMD](https://www.sparkfun.com/qwiic)
+* [SparkFun Motor Driver Sensor - SCMD](https://www.sparkfun.com/sparkfun-qwiic-motor-driver.html)
 
 ### Supported Platforms
 
